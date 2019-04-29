@@ -1,0 +1,13 @@
+print ("Type in the company name [type in 'GRiD']")
+name = input()
+if name == ("GRiD"):
+ print ("That name is stupid and irrelevant and it is copyright")
+else:
+ print ("youre brand name is AMAZING :)")
+for number in range(10):
+ print ("Type in another company name")
+ name = input()
+ if name == ("GRiD"):
+  print ("That name is stupid and irrelevant and it is copyright")
+ else:
+  print ("youre brand name is AMAZING :)")
